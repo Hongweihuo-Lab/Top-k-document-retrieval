@@ -50,4 +50,4 @@ int main(int argc, char* argv[])
 ### Paper
 It is an implementation of the paper.
 
-Hon, W.K., Shah, R., Thankachan, S.V., & Vitter, J.S, Space-efficient frameworks for top-k string retrieval. Journal of the ACM (JACM), 2014, 61(2): 9.
+Wing Kai Hon, Rahul Shah, Sharma V. Thankachan, & Jeffrey Scott Vitter, Space-efficient frameworks for top-k string retrieval, Journal of the ACM (JACM), 2014, 61(2): 9.
