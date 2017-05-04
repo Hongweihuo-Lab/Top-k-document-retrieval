@@ -3,6 +3,12 @@
     Top-k document retrieval is a full-text index. Given a pattern, it can be a word, a phase or 
     arbitrary substring, you can get the most relevant documents with it. 
 
+## Reference
+
+We used [simongog](https://github.com/simongog)'s [sdsl](https://github.com/simongog/sdsl-lite) library in
+our code, and the [RMQ](https://github.com/hferrada/rmq.git) data structure implemented by Hector Ferrada and
+Gonzalo Navarro.
+
 ## Requirements
 
 * To compile the code, you need to install the [sdsl](https://github.com/simongog/sdsl-lite)
