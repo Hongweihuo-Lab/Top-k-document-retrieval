@@ -9,6 +9,12 @@ We used [simongog](https://github.com/simongog)'s [sdsl](https://github.com/simo
 our code, and the [RMQ](https://github.com/hferrada/rmq.git) data structure implemented by Hector Ferrada and
 Gonzalo Navarro.
 
+[1] Simon Gog, sdsl-lite library, https://github.com/simongog/sdsl-lite
+
+[2] H´ector Ferrada and Gonzalo Navarro, Improved Range Minimum Queries, In Proceedings of the IEEE Data Compression Conference (DCC 2016), 2016, pp. 516–525.
+
+
+
 ## Requirements
 
 * To compile the code, you need to install the [sdsl](https://github.com/simongog/sdsl-lite)
