@@ -17,6 +17,9 @@ Gonzalo Navarro.
 
 ## Requirements
 
+We used [simongog](https://github.com/simongog)'s [sdsl](https://github.com/simongog/sdsl-lite) library in
+our code and the [RMQ](https://github.com/hferrada/rmq.git)data structure implementated by Hector Ferrada 
+and Gonzalo Navarro.
 * To compile the code, you need to install the [sdsl](https://github.com/simongog/sdsl-lite)
   library.
 * `g++`version 4.9 or higher.
